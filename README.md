@@ -1,7 +1,11 @@
 
+<br><br><br>
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=700&size=40&duration=3000&pause=1000&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&random=false&width=620&lines=I'm+a+Software+Engineer.;Front-End.+Back-End.+Full-Stack.;Code.+Made.+Simple." alt="Typing SVG" />
 </div>
+
+<br>
 
 # Welcome!
 
@@ -9,7 +13,7 @@ I'm Brandon, a student at the University of Michigan's College of Engineering. I
 
 Great, now that the boring part is out of the way, let's dive into the details, shall we?
 
-I started programming on Khan Academy at the age of 9 (single digits, baby) and have been developing my passion for technology ever since. Here are all the programming languages, frameworks, and libraries I've learned since then:
+I started programming on Khan Academy at the age of 9 (single digits, baby) and have been developing my passion for technology ever since. Here are some of the programming languages, frameworks, and libraries I've learned since then:
 
 <br>
 
@@ -44,7 +48,7 @@ I started programming on Khan Academy at the age of 9 (single digits, baby) and 
 
 <br>
 
-...and all of the operating systems and services I have experience with:
+...and a handful of operating systems and services I have experience with:
 
 <br>
 
